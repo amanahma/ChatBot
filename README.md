@@ -12,7 +12,7 @@ A dark terminal-themed AI fitness coach chatbot built with Next.js and powered b
 ## 📸 Preview
 
 > Dark terminal UI with green accents, monospace font, and real-time AI responses.
-
+- **Live Demo** : https://chat-bot-delta-fawn-29.vercel.app/
 ---
 
 ## ✨ Features
@@ -136,8 +136,4 @@ APEX is an AI assistant and **not a substitute for professional medical advice**
 **Aman Ahmad**
 - GitHub: [@amanahma](https://github.com/amanahma)
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
