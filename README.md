@@ -1,4 +1,4 @@
-# 🏋️ APEX — AI Fitness Coach Chatbot
+# 🏋️ Gold GYM — AI Fitness Coach Chatbot
 
 A dark terminal-themed AI fitness coach chatbot built with Next.js and powered by **Groq (Llama 3.1)** — completely free to run!
 
@@ -19,7 +19,7 @@ A dark terminal-themed AI fitness coach chatbot built with Next.js and powered b
 
 - ⚡ **AI-powered** fitness coaching via Groq (Llama 3.1 8B)
 - 🖥️ **Dark terminal UI** with green accents and monospace font
-- 🧠 **Multi-turn memory** — APEX remembers the full conversation
+- 🧠 **Multi-turn memory** — Gold GYM remembers the full conversation
 - 🎯 **Quick prompt buttons** for instant workout, nutrition & recovery advice
 - 🔒 **Secure backend proxy** — API key never exposed to the browser
 - 📱 **Responsive** — works on desktop and mobile
@@ -127,7 +127,7 @@ vercel --prod
 
 ## ⚠️ Disclaimer
 
-APEX is an AI assistant and **not a substitute for professional medical advice**. Always consult a doctor or certified trainer for medical concerns or injuries.
+Gold GYM is an AI assistant and **not a substitute for professional medical advice**. Always consult a doctor or certified trainer for medical concerns or injuries.
 
 ---
 
